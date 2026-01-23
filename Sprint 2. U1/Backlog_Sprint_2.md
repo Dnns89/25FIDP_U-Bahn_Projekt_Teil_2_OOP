@@ -23,7 +23,7 @@ Im Fokus stehen die Implementierung von **Hin- und Rückfahrt** sowie **variable
  
 ### 1. Die Strecke 
 
-* **Datenquelle:** Eine bereitgestellte Liste im Sprintordner enthält die Stationen und die jeweiligen Fahrtzeiten (Gewichte).
+* **Datenquelle:** Die Datei Netzplan U1 im Sprintordner enthält die Stationen und die jeweiligen Fahrtzeiten.
  
 * **Haltezeiten:**
  
